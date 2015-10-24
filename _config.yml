@@ -1,0 +1,23 @@
+name: 'http://www.peter-lacke.com/de/'
+favicon: null
+layout_spectrum: 0.6719276558142155
+typography_spectrum: 0.1164735360071063
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.31044464465230703
+  lightness: 0.61733463476412
+  saturation: 0.12672168528661132
+  rhythmicContrast: 0.7586363984737545
+purpose: []
